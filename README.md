@@ -24,7 +24,7 @@ clients is often more expensive than maintaining current ones, churn may have a 
 on a bank's income and market share. Furthermore, high turnover rates can have a negative 
 influence on a bank's reputation and client loyalty, making it critical for banks to recognize and 
 address the root causes of churn in order to retain a stable and pleased customer base.
-PROBLEM STATEMENT￾The banking industry is grappling with a fundamental challenge—customer inflow, where 
+The banking industry is grappling with a fundamental challenge—customer inflow, where 
 customers terminate their ties with banks for a variety of reasons. This report addresses this 
 issue by probing key research questions aimed at understanding, predicting and reducing 
 customer visits. The following questions guide our research-
