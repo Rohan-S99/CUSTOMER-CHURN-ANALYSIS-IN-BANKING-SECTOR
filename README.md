@@ -44,7 +44,8 @@ and loyalty.
 associated with compared to retaining the existing customers: -
 Considering that acquiring new customers is often costly, how can we strategically 
 retain existing customers? Our research analyses the financial implications of retaining 
-current customers and formulates strategies for developing optimal products for longterm customer relationships.
+current customers and formulates strategies for developing optimal products for long term customer relationships.
+
 Through comprehensive research and detailed analysis of customer data, this report aims to 
 empower the banking industry to proactively manage customer relationships, improve 
 retention efforts, and establish customers churn impact on efficiency. The findings presented 
